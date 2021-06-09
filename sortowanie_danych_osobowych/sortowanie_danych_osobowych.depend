@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1619787347 source:c:\users\tymek\desktop\tymek\c++\sortowanie_danych_osobowych\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+

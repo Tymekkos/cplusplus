@@ -1,0 +1,5 @@
+4
+Jan, Nowak, 1.80
+Zbigniew, Kowalski, 2.40
+Tomasz, Kozak, 1.64
+Klara, Rydz, 1.70
