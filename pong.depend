@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1630780819 source:c:\users\tymek\desktop\tymek\c++\pong\main.cpp
-	<iostream>
-	<time.h>
-	<conio.h>
-
